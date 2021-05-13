@@ -17,5 +17,5 @@
   "timers": "timers-browserify",
   "tls": null,
   "url": "url/",
-  "util": "util/util.js",
+  "util": "util/util.js"
 }
